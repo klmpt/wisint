@@ -2,6 +2,9 @@
 
 wisint is a modular osint framework. the tool is designed for data collection, digital footprint analysis, and basic security assessment of resources.
 
+[![stars](https://badgen.net/github/stars/klmpt/wisint?icon=github)](https://github.com/klmpt/wisint/stargazers)
+[![forks](https://badgen.net/github/forks/klmpt/wisint?icon=github)](https://github.com/klmpt/wisint/network/members)
+
 ### main modules
 
 * **recon.py**: automated link collection for target research.
