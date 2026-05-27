@@ -1,0 +1,22 @@
+ credits
+this framework was developed as an open-source project for security research and data analysis.
+
+developer
+
+klmpt (https://github.com/klmpt)
+
+libraries used
+
+colorama - for terminal color formatting.
+
+pyfiglet - for ascii banner generation.
+
+supported environments
+
+linux mint
+
+debian
+
+ubuntu
+
+built with focus on modularity, simplicity, and efficiency.
